@@ -1,0 +1,32 @@
+/* Write your code here. */
+.bg-container {
+  padding: 30px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image-container {
+  border-radius: 8px;
+}
+.image {
+  height: 400px;
+  width: 600px;
+  border-radius: 8px;
+}
+.heading {
+  font-size: 32px;
+  font-weight: bold;
+}
+.para {
+  font-size: 24px;
+}
+.ul-container {
+  list-style-type: none;
+  display: flex;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
